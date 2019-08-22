@@ -27,51 +27,51 @@ Nós iremos discutir abaixo os documentos para cada um dos vistos, e aprofundar 
 Alguns documentos precisam obrigatoriamente serem apostilados conforme a convenção de Haia, para que o mesmo possa ser reconhecido fora do país. No geral, diplomas e certificados técnicos precisam ser apostilados. Veja se sua cidade possui cartórios que fazem este processo. Geralmente, demora algo em torno de 30 minutos para realizar o apostilamento (desconsiderando alguma eventual fila), mas pode ser que o cartório de sua cidade demore mais tempo, ou que você precise ir para alguma cidade vizinha para realiza-lo, então este é o primeiro atraso que pode ocorrer no seu processo, e que você precisa antecipar.
 
 #### Traduções
-Alguns documentos precisam tradução juramentada em alemão. No geral, diplomas, certificados técnicos e currículo vitae (apenas no caso do work permit) precisam de tradução. Veja se sua cidade possui algum tradutor juramentado [aqui](//TODO) neste link. entre em contato com eles e veja a disponibilidade dele, e qual o tempo necessário para fazer a tradução. Se em sua cidade não houver nenhum tradutor, será preciso enviar para tradutores de outros estádos copias autenticadas (no caso de documentos oficiais como diplomas) para que os mesmos possam fazer a tradução juramentada e enviar para você.
+Alguns documentos precisam tradução juramentada em alemão. No geral, diplomas, certificados técnicos e currículo vitae (apenas no caso do work permit) precisam de tradução. Veja se sua cidade possui algum tradutor juramentado [aqui](http://www.brasil.diplo.de/tradutores) neste link. entre em contato com eles e veja a disponibilidade dele, e qual o tempo necessário para fazer a tradução. Se em sua cidade não houver nenhum tradutor, será preciso enviar para tradutores de outros estádos copias autenticadas (no caso de documentos oficiais como diplomas) para que os mesmos possam fazer a tradução juramentada e enviar para você.
 
 #### Certificados de curso na Alemanha
-Para seu diploma ser válido na Alemanha, é preciso que seu curso E sua universidade estejam no banco de dados [Anabin](//TODO). Veja que não é preciso ter o curso de sua faculdade, se sua faculdade for reconhecida, e seu curso também for reconhecido (mesmo que por outra faculdade), tudo que você vai precisar é tirar print de ambos (curso e faculdade) na página do Anabin e levar ao consulado. Caso algum dos dois não sejam reconhecidos, ai entra o processo de pedir esse reconhecimento para a Alemanha, enviando todos os documentos necessários ao ZAB. Esse processo será detalhado abaixo na parte sobre os documentos, mas no geral é preciso de em média 3 semanas para que o ZAB te envie o certificado: 1 semana pare enviar os documetnos para Alemanha, e 2 semanas em média de processamento. Após isso, irão te enviar por correios e email os certificados, mas basta imprimir o do email para apresentar no consulado, não é necessário esperar os oficiais chegarem por correspondência.
+Para seu diploma ser válido na Alemanha, é preciso que seu curso E sua universidade estejam no banco de dados [Anabin](http://anabin.kmk.org/). Veja que não é preciso ter o curso de sua faculdade, se sua faculdade for reconhecida, e seu curso também for reconhecido (mesmo que por outra faculdade), tudo que você vai precisar é tirar print de ambos (curso e faculdade) na página do Anabin e levar ao consulado. Caso algum dos dois não sejam reconhecidos, ai entra o processo de pedir esse reconhecimento para a Alemanha, enviando todos os documentos necessários ao ZAB. Esse processo será detalhado abaixo na parte sobre os documentos, mas no geral é preciso de em média 3 semanas para que o ZAB te envie o certificado: 1 semana pare enviar os documetnos para Alemanha, e 2 semanas em média de processamento. Após isso, irão te enviar por correios e email os certificados, mas basta imprimir o do email para apresentar no consulado, não é necessário esperar os oficiais chegarem por correspondência.
 
 #### Contrato de trabalho
 Você irá precisar do contrato original de trabalho para apresentar no consulado. Sim, o contrato original, assinado por sua empresa, enviado por correios para ti e assinado por você aqui. O tempo varia, havendo casos em que em 3 dias úteis o contrato foi entregue, enquanto em outros casos a entrega demorou pouco mais de duas semanas.
 
 ### Agendamento ao Consulado
 Após fazer a estimativa de quanto tempo será necessário para arrumar toda a documentação, a **PRIMEIRA** coisa que você deve fazer é marcar uma visita ao consulado alemão. Eles constumam ter uma fila de espera grande (especialmente o do Rio de Janeiro). 
-**ATENÇÃO**: Existem 3 consulados alemães que expedem visto de trabalho atualmente: Um no Rio de Janeiro, um em São Paulo, e um em Porto Alegre. Você deve se informar exatamente em qual consulado ir, sendo que isto depende de onde você mora. No geral, o consulado de SP lida com o visto dos moradores de (//TODO), o consulado de POA lida com o visto dos moradores de (//TODO), e o consulado do RJ lida com o visto de todo o resto do Brasil, mas é recomendável ligar para os consulados para confirmar que ele é o apropriado para o seu caso!
-Marque uma visita no seu consulado [aqui](//TODO). Você deve ter em mente que nesta visita deve levar toda a documentação necessária, então se por exemplo, o unico documento que é complicado para você arrumar é o contrato original, uma visita para daqui 2~3 semanas deve ser o suficiente. Caso precise mndar coisas para o ZAB, apostilar ou mandar traduzir em outra cidade/estado, este tempo deve ser maior e o suficiente para arrumar toda a papelada. É bem provavel que as vezes as filas sejam muito grandes, e você só consiga agendar de qualquer forma para daqui 6~9 semanas, então é muito importante que você já agende AGORA, antes de tudo, para não ter que esperar ainda mais.
+**ATENÇÃO**: Existem 4 consulados alemães que expedem visto de trabalho atualmente: No Rio de Janeiro, São Paulo, Recife e Porto Alegre. Você deve se informar exatamente em qual consulado ir, sendo que isto depende de onde você mora. É recomendável ligar para os consulados para saber qual é o apropriado para o seu caso!
+Marque uma visita no seu consulado [aqui](https://brasil.diplo.de/br-pt/servicos/agendamento/1010152). Você deve ter em mente que nesta visita deve levar toda a documentação necessária, então se por exemplo, o unico documento que é complicado para você arrumar é o contrato original, uma visita para daqui 2\~3 semanas deve ser o suficiente. Caso precise mndar coisas para o ZAB, apostilar ou mandar traduzir em outra cidade/estado, este tempo deve ser maior e o suficiente para arrumar toda a papelada. É bem provavel que as vezes as filas sejam muito grandes, e você só consiga agendar de qualquer forma para daqui 6\~9 semanas, então é muito importante que você já agende AGORA, antes de tudo, para não ter que esperar ainda mais.
 
 ### Documentos necessários para o Blue Card EU
 Esses são os documentos necessários para o pedido de visto para o Blue Card EU. Esta é apenas uma lista de visualização rápida, para detalhes de como conseguir veja o detalhamento nas seções abaixo.
 
 | Documento | Onde/Como conseguir | Quanto tempo demora | Prioridade | Detalhamento |
 |-------------------------------------------------|----------------------------------------------------------|---------------------|------------------------------------------------------------|--------------|
-| Passaporte | Polícia federal | 6 dias úteis | Alta | [aqui]() |
-| Requerimento de Autorização de Residência | Imprimir [aqui]() | - | Alta | [aqui]() |
-| Aufenthaltsgesetz | Imprimir [aqui]() | - | Alta | [aqui]() |
-| Duas fotos atuais (3,5 x 4,5) | Estudio de fotografia ou similares | 30~60 Minutos | Alta | [aqui]() |
-| CV em Inglês ou Alemão | Traduzir seu curriculo mais atual | - | Alta | [aqui]() |
-| Diploma apostilado | Cartórios que emitem apostila | 1h a 2dias | Alta | [aqui]() |
-| Tradução juramentada do diploma | Tradutores juramentados | 3 dias a 2 semanas | Alta | [aqui]() |
-| Reconhecimento do curso e faculdade na Alemanha | Banco de dados do Anabin | - | Alta | [aqui]() |
-| Reconhecimento do diploma na Alemanha | Enviando o diploma para o ZAB na Alemanha | 2~4 semanas | Alta se não for possivel reconhecer o curso ou a faculdade | [aqui]() |
-| Contrato de trabalho original | Seu empregador deve envia-lo por correios assinado | 3 dias a 2 semanas | Alta | [aqui]() |
-| Descrição do trabalho | Seu empregador deve por email | - | Baixa | [aqui]() |
-| Seguro de saude | Seguro de viagem ou prova de associação ao seguro alemão | 2 dias a 2 semanas | Média | [aqui]() |
+| Passaporte | Polícia federal | 6 dias úteis | Alta | [aqui](#passaporte) |
+| Requerimento de Autorização de Residência | Imprimir [aqui](https://brasil.diplo.de/blob/1050726/967001405d336a15e6b0c245ca9783da/antrag-auf-ein-nationales-visum-pt-data.pdf) | - | Alta | [aqui](#requerimento-de-autorização-de-residência) |
+| Aufenthaltsgesetz | Imprimir [aqui](https://brasil.diplo.de/blob/1050722/d2b92816b4e3bc061fcdf7cc32d59ad1/belehrung-nach-53-und-54-aufenthg-pt-data.pdf) | - | Alta | [aqui](#aufenthaltsgesetz) |
+| Duas fotos biometricas atuais | Estudio de fotografia ou similares. Foto (3,5 x 4,5) | 30~60 Minutos | Alta | [aqui](#duas-fotos-biometricas-atuais) |
+| CV em Inglês ou Alemão | Traduzir seu curriculo mais atual | - | Alta | [aqui](#cv-em-inglês-ou-alemão) |
+| Diploma apostilado | Cartórios que emitem apostila | 1h a 2dias | Alta | [aqui](#diploma-apostilado) |
+| Tradução juramentada do diploma | Tradutores juramentados | 3 dias a 2 semanas | Alta | [aqui](#tradução-juramentada-do-diploma) |
+| Reconhecimento do curso e faculdade na Alemanha | Banco de dados do Anabin | - | Alta | [aqui](#reconhecimento-do-curso-e-faculdade-na-alemanha) |
+| Reconhecimento do diploma na Alemanha | Enviando o diploma para o ZAB na Alemanha | 2~4 semanas | Alta se não for possivel reconhecer o curso ou a faculdade | [aqui](#reconhecimento-do-diploma-na-alemanha) |
+| Contrato de trabalho original | Seu empregador deve envia-lo por correios assinado | 3 dias a 2 semanas | Alta | [aqui](#contrato-de-trabalho-original) |
+| Descrição do trabalho | Seu empregador deve por email | - | Baixa | [aqui](#descrição-do-trabalho) |
+| Seguro de saude | Seguro de viagem ou prova de associação ao seguro alemão | 2 dias a 2 semanas | Média | [aqui](#seguro-de-saude) |
 
 ### Documentos necessários para o Work Permit
 Esses são os documentos necessários para o pedido de visto para o Work Permit. Esta é apenas uma lista de visualização rápida, para detalhes de como conseguir veja o detalhamento nas seções abaixo.
 
 | Documento | Onde/Como conseguir | Quanto tempo demora | Prioridade | Detalhamento |
 |-------------------------------------------|----------------------------------------------------------|---------------------|------------|--------------|
-| Passaporte | Polícia federal | 6 dias úteis | Alta | [aqui]() |
-| Requerimento de Autorização de Residência | Imprimir [aqui]() | - | Alta | [aqui]() |
-| Aufenthaltsgesetz | Imprimir [aqui]() | - | Alta | [aqui]() |
-| Duas fotos atuais (3,5 x 4,5) | Estudio de fotografia ou similares | 30~60 Minutos | Alta | [aqui]() |
-| CV em Alemão | Tradutores (ser juramentado é opcional) | - | Alta | [aqui]() |
-| Aprovação do ZAV | Agência Federal do Trabalho Alemã | //TODO | Média | [aqui]() |
-| Contrato de trabalho original | Seu empregador deve envia-lo por correios assinado | 3 dias a 2 semanas | Alta | [aqui]() |
-| Descrição do trabalho | Seu empregador deve por email | - | Baixa | [aqui]() |
-| Seguro de saude | Seguro de viagem ou prova de associação ao seguro alemão | 2 dias a 2 semanas | Média | [aqui]() |
+| Passaporte | Polícia federal | 6 dias úteis | Alta | [aqui](#passaporte) |
+| Requerimento de Autorização de Residência | Imprimir [aqui](https://brasil.diplo.de/blob/1050726/967001405d336a15e6b0c245ca9783da/antrag-auf-ein-nationales-visum-pt-data.pdf) | - | Alta | [aqui](#requerimento-de-autorização-de-residência) |
+| Aufenthaltsgesetz | Imprimir [aqui](https://brasil.diplo.de/blob/1050722/d2b92816b4e3bc061fcdf7cc32d59ad1/belehrung-nach-53-und-54-aufenthg-pt-data.pdf) | - | Alta | [aqui](#aufenthaltsgesetz) |
+| Duas fotos biometricas atuais | Estudio de fotografia ou similares. Foto (3,5 x 4,5) | 30~60 Minutos | Alta | [aqui](#duas-fotos-biometricas-atuais) |
+| CV em Alemão | Tradutores (ser juramentado é opcional) | - | Alta | [aqui](#cv-em-alemão) |
+| Aprovação do ZAV | Agência Federal do Trabalho Alemã | //TODO | Média | [aqui](#aprovação-do-zav) |
+| Contrato de trabalho original | Seu empregador deve envia-lo por correios assinado | 3 dias a 2 semanas | Alta | [aqui](#contrato-de-trabalho-original) |
+| Descrição do trabalho | Seu empregador deve por email | - | Baixa | [aqui](#descrição-do-trabalho) |
+| Seguro de saude | Seguro de viagem ou prova de associação ao seguro alemão | 2 dias a 2 semanas | Média | [aqui](#seguro-de-saude) |
 
 ### Organizando os jogos de documentos
 
