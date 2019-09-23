@@ -1,23 +1,23 @@
 # Obtendo o visto de trabalho alemão
 
-## Visão geral do processo
-
-### Tipos de visto
+## Tipos de visto
 Existem diversos tipos de visto para a Alemanha: trabalho Au-Pair, visto para busca de trabalho, visto para estudante, visto para trabalho, etc. Nesta seção trataremos apenas dos vistos para trabalho: work permit ou blue card.
-
-### Diferença entre Work Permit e Blue Card
-Existem algumas diferenças entre o Work Permit e Blue Card. Ambos te dão o direito de receber um Residence permit para morar e trabalhar na Alemanha, mas o Blue card possui algumas facilidades extras:
-- Com o Blue Card é possivel entrar com o pedido de residencia permanente (não confundir com cidadania) após 21 meses (com proeficiencia em lingua alemã B1) ou 33 meses (com proeficiencia em lingua alemã A1). Com o Work Permit isso é possivel apenas após 5 anos.
-- Com o Blue Card é possivel mudar para um emprego em outro país da União Europeia apóes 1-2 anos (carece melhores definições de tempo). O Work Permit é valido apenas para a Alemanha, e aplicar para um visto em outro pais da UE seria praticamente fazer o processo do zero.
-- O visto de residência permanente vindo de um Blue Card também possui a flexibilidade de transferir o visto para outro pais da UE. O visto de residência permanente vindo de um Work Permit, novamente, é valido apenas para a Alemanha.
-- Para mudança de emprego nos dois primeiros anos com o Work Permit é preciso notificar o escritorio de imigração da sua cidade. Isso também é valido para Blue Card com contratos de trabalho em que o salário anual é menor que o minimo geral (mais sobre isso nos paragrafos seguintes). Se você possui um Blue Card e ganha mais que o mínimo geral, não é preciso avisar sobre mudanças de emprego, já que nesse caso seu visto não terá nenhuma menção sobre seu empregador.
 
 ### Requisitos para Work Permit
 Existem diversas fontes que relatam que os requisitos variam muito de quem está avaliando seu pedido. No geral, se entende que a média requerida é de 5 anos de trabalho na área **comprovados**, um contrato de trabalho e uma autorização do ministerio de trabalho alemão (Bundesagentur für Arbeit), que irá aprovar ou não baseado na demanda do trabalho em que você está aplicando (basicamente para checar se você não está gerando concorrência em uma vaga que poderia ser preenchida por um alemão). Mais informações sobre o processo de Work Permit são bem vindas a essa wiki.
 
 ### Requisitos para Blue Card
-Existem algumas divergencias aqui. Muitos relatam que diploma de tecnologo não vale para o Blue Card, enquanto alguns dizem ter conseguido o Blue Card como tecnologo. O entendimento oficial é que para o Blue Card é necessário um diploma reconhecido pela Alemanha (Anabin ou ZAB) na área e um contrato de trabalho com salário acima do mínimo requerido. Esse valor minima muda todo ano. Em 2019 esse valor é de 53600 euros para áreas em gerais, e 41808 euros para áreas consideradas com falta de mão de obra (TI, matemática, e outros). Para mais informações, valores atualizados e a lista completa de trabalhos considerados como falta de mão de obra (shortage), veja este [link](http://www.bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
+Existem algumas divergencias aqui. Muitos relatam que diploma de tecnologo não vale para o Blue Card, enquanto alguns dizem ter conseguido o Blue Card como tecnologo. O entendimento oficial é que para o Blue Card é necessário um diploma reconhecido pela Alemanha (Anabin ou ZAB) na área e um contrato de trabalho com salário acima do mínimo requerido. Esse valor minima muda todo ano. Em 2019 esse valor é de 53600 euros para áreas em gerais (referido daqui pra frente como 'minimo geral'), e 41808 euros para áreas consideradas com falta de mão de obra como TI (referido daqui pra frente como 'minimo shortage'). Para mais informações, valores atualizados e a lista completa de trabalhos considerados como falta de mão de obra (shortage), veja este [link](http://www.bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
 
+### Diferença entre Work Permit e Blue Card
+Existem algumas diferenças entre o Work Permit e Blue Card. Ambos te dão o direito de receber um Residence permit para morar e trabalhar na Alemanha, mas o Blue card possui algumas facilidades extras:
+- Com o Blue Card é possivel entrar com o pedido de residencia permanente (não confundir com cidadania) após 21 meses (com proeficiencia em lingua alemã B1) ou 33 meses (com proeficiencia em lingua alemã A1). Com o Work Permit isso é possivel apenas após 5 anos.
+- Com o Blue Card é possivel mudar para um emprego em outro país da União Europeia após 1-2 anos (carece melhores definições de tempo). O Work Permit é valido apenas para a Alemanha, e aplicar para um visto em outro pais da UE seria praticamente fazer o processo do zero.
+- O visto de residência permanente vindo de um Blue Card também possui a flexibilidade de transferir o visto para outro pais da UE. O visto de residência permanente vindo de um Work Permit, novamente, é valido apenas para a Alemanha.
+- Para mudança de emprego nos dois primeiros anos com o Work Permit é preciso notificar o escritorio de imigração da sua cidade. Isso também é valido para Blue Card com contratos de trabalho em que o salário anual é menor que o minimo geral. Se você possui um Blue Card e ganha mais que o mínimo geral, não é preciso avisar sobre mudanças de emprego, já que nesse caso seu visto não terá nenhuma menção sobre seu empregador.
+
+
+## Visão geral do processo
 ### Tempo de processo
 O tempo de processo do visto pode variar muito, dependendo de qual consulado você deve ir e
 de documentos necessários. Os 4 tipos de documentos que mais costumam atrasar são apostilamentos, traduções, certificações de curso na Alemanha e contrato de trabalho original. Nas seções abaixo você poderá ver qual situação de complexidade seus documentos se encaixam, e por consequencia o tempo pra obter cada um.
@@ -34,7 +34,7 @@ Alguns documentos precisam obrigatoriamente serem apostilados conforme a conven�
 Alguns documentos precisam tradução juramentada em alemão. No geral, diplomas, certificados técnicos e currículo vitae (apenas no caso do work permit) precisam de tradução. Veja se sua cidade possui algum tradutor juramentado [aqui](http://www.brasil.diplo.de/tradutores) neste link. entre em contato com eles e veja a disponibilidade dele, e qual o tempo necessário para fazer a tradução. Se em sua cidade não houver nenhum tradutor, será preciso enviar para tradutores de outros estádos copias autenticadas (no caso de documentos oficiais como diplomas) para que os mesmos possam fazer a tradução juramentada e enviar para você.
 
 #### Certificados de curso na Alemanha
-Para seu diploma ser válido na Alemanha, é preciso que seu curso E sua universidade estejam no banco de dados listados como H+ [Anabin](http://anabin.kmk.org/). Veja que não é preciso ter o curso de sua faculdade, se sua faculdade for reconhecida, e seu curso também for reconhecido (mesmo que por outra faculdade), tudo que você vai precisar é tirar print de ambos (curso e faculdade) na página do Anabin e levar ao consulado. Caso algum dos dois não sejam reconhecidos, ai entra o processo de pedir esse reconhecimento para a Alemanha, enviando todos os documentos necessários ao ZAB. Esse processo será detalhado abaixo na parte sobre os documentos, mas no geral é preciso de em média 3 semanas para que o ZAB te envie o certificado: 1 semana pare enviar os documetnos para Alemanha, e 2 semanas em média de processamento. Após isso, irão te enviar por correios e email os certificados, mas basta imprimir o do email para apresentar no consulado, não é necessário esperar os oficiais chegarem por correspondência. Nota: Caso sua faculdade ou diploma estejam no site como H-, provavelmente o reconhecimento pelo ZAB não será possivel. Recomendo confirmar esta informações e buscar informações mais detalhadas nesse caso com o consulado, agência de relocação ou mesmo o ZAB.
+Para seu diploma ser válido na Alemanha, é preciso que seu curso E sua universidade (H+) estejam no banco de dados [Anabin](http://anabin.kmk.org/). Veja que não é preciso ter o curso de sua faculdade, se sua faculdade for reconhecida (H+), e seu curso também for reconhecido (mesmo que por outra faculdade), tudo que você vai precisar é tirar print de ambos (curso e faculdade) na página do Anabin e levar ao consulado. Caso algum dos dois não sejam reconhecidos, ai entra o processo de pedir esse reconhecimento para a Alemanha, enviando todos os documentos necessários ao ZAB. Esse processo será detalhado abaixo na parte sobre os documentos, mas no geral é preciso de em média 3 semanas para que o ZAB te envie o certificado: 1 semana pare enviar os documetnos para Alemanha, e 2 semanas em média de processamento. Após isso, irão te enviar por correios e email os certificados, mas basta imprimir o do email para apresentar no consulado, não é necessário esperar os oficiais chegarem por correspondência. Nota: Caso sua faculdade esteja no site como H- procure se informar diretamente com o ZAB se é possivel validar o seu diploma.
 
 #### Contrato de trabalho
 Você irá precisar do contrato original de trabalho para apresentar no consulado. Sim, o contrato original, assinado por sua empresa, enviado por correios para ti e assinado por você. O tempo varia, havendo casos em que em 3 dias úteis o contrato foi entregue, enquanto em outros casos a entrega demorou pouco mais de duas semanas.
@@ -110,10 +110,26 @@ Após mostrar os documentos originais e entregar as cópias, você terá que esp
 ### CV em Inglês ou Alemão
 
 **Processo**: Blue Card
-**Descrição**: Pegue o seu curriculo mais recente e traduza-o para inglês ou alem ão (preferencialmente para a lingua que você mais domina). Não é preciso ser uma tradução juramentada. Em alguns documentos é descrito que o curriculo precisa estar no "formato de tabela". Isso significa que na parte de experiências o curriculo fica organizado da seguinte maneira:
+**Descrição**: Pegue o seu curriculo mais recente e traduza-o para inglês ou alemão (preferencialmente para a lingua que você mais domina). Não é preciso ser uma tradução juramentada. Em alguns documentos é descrito que o curriculo precisa estar no "formato de tabela". Isso significa que na parte de experiências o curriculo fica organizado da seguinte maneira:
 |Ano|Descrição|
 |--------|-------------------------------------------------|
 |2015-2018| Trabalhei na empresa X como ....|
 |2012-2015| Trabalhei na empresa Y como ....|
 
 Esse formato apesar de recomendado não parece ser obrigatorio. Por segurança vale a pena gastar alguns minutos fazendo essa formatação. Após formatar e traduzir, tirar duas cópias.
+
+### CV em Alemão
+**Processo**: Work Permit
+**Descrição**: O mesmo que o passo acima mas o curriculo deve estar obrigatoriamente em alemão com tradução juramentada. Veja se sua cidade possui algum tradutor juramentado [aqui](http://www.brasil.diplo.de/tradutores) neste link. entre em contato com eles e veja a disponibilidade dele, e qual o tempo necessário para fazer a tradução. Se em sua cidade não houver nenhum tradutor, será preciso enviar para tradutores de outros estádos uma cópia física do CV para que os mesmos possam fazer a tradução juramentada e enviar para você. Para o Work Permit no consulado não é preciso nenhum outro documento com tradução juramentada, mas talvez você queira já traduzir também documentos como certidões e certificados, ja que estes provavelmente serão necessários na Alemanha.
+
+### Diploma apostilado
+**Processo**: Blue Card
+**Descrição**: É preciso apostilar o seu diploma conforme a convenção de Haia. Para isso, primeiro é preciso fazer o reconhecimento de firma da assinatura do reitor no seu diploma. Caso você não saiba qual cartório possui reconhecimento de firma do seu reitor, ligue na secretaria do seu curso / universidade para mais informações. Após o reconhecimento de firma, procure um cartório que faça apostilamentos e leve o diploma original para anexar a apostila de Haia. O custo depende de cidade para cidade, geralmente entre 50 e 150 reais.
+
+### Tradução juramentada do diploma
+**Processo**: Blue Card
+**Descrição**: Após apostilar o diploma, é preciso fazer uma tradução juramentada do diploma apostilado. Veja se sua cidade possui algum tradutor juramentado [aqui](http://www.brasil.diplo.de/tradutores) neste link. entre em contato com eles e veja a disponibilidade dele, e qual o tempo necessário para fazer a tradução. Se em sua cidade não houver nenhum tradutor, será preciso enviar para tradutores de outros estádos copias autenticadas para que os mesmos possam fazer a tradução juramentada e enviar para você. Evite enviar o diploma original para evitar perde-lo pelos correios. Para o Blue Card no consulado não é preciso nenhum outro documento com tradução juramentada, mas talvez você queira já traduzir também documentos como certidões e certificados, ja que estes provavelmente serão necessários na Alemanha.
+
+### Reconhecimento do curso e faculdade na Alemanha
+**Processo**: Blue Card
+**Descrição**: Vá no site do [Anabin](http://anabin.kmk.org/) e procure se sua faculdade/universidade e curso foram validados pela Alemanha. Veja que não é preciso ter o curso especificamente da sua faculdade, se sua faculdade for reconhecida (H+), e seu curso também for reconhecido (mesmo que por outra faculdade), tudo que você vai precisar é tirar print de ambos (curso e faculdade) na página do Anabin e levar ao consulado. Caso contrário será preciso fazer a validação do seu diploma. Veja o passo abaixo.
